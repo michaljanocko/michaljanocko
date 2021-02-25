@@ -4,7 +4,7 @@
 - Rust
 - Elm
 - Python
-- JavaScript
+- Javascript
 - Svelte
 
 📚 **I am learning:**
