@@ -3,9 +3,9 @@
 🖊️ **I write:**
 - Rust
 - Elm
-- Typescript
-- Svelte
 - Python
+- JavaScript
+- Svelte
 
 📚 **I am learning:**
 - Elixir
