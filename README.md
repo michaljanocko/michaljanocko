@@ -3,10 +3,10 @@
 🖊️ **I write:**
 - Rust
 - Elm
+- Elixir
 - Python
-- Javascript
+- TypeScript
 - Svelte
 
 📚 **I am learning:**
-- Elixir
 - Haskell
