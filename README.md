@@ -7,6 +7,4 @@
 - Python
 - TypeScript
 - Svelte
-
-📚 **I am learning:**
-- Haskell
+- _and some functional stuff…_
